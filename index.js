@@ -16,7 +16,7 @@ function add(a, b) {
 }
 
 //subtract
-function subtract() {
+function subtract(a, b) {
   return (a - b)
 }
 
