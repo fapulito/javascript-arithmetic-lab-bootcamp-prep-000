@@ -21,31 +21,31 @@ function subtract(a, b) {
 }
 
 //multiply  
-function multiply() {
+function multiply(a, b) {
   return (a * b)
 }
 
 //divide
-function divide() {
+function divide(a, b) {
   return (a / b)
 }
 
 //inc
-function inc() {
+function inc(a) {
   return (a + 1)
 }
 
 //dec
-function dec() {
+function dec(b) {
   return (a - 1)
 }
 
 //makeInt
-function makeInt() {
+function makeInt(a) {
   return parseInt(a)
 }
 
 //preserveDecimal
-function preserveDecimal() {
+function preserveDecimal(a) {
   return parseFloat(a)
 }
