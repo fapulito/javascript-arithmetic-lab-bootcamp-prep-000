@@ -9,7 +9,8 @@ beforeEach(function() {
 
 //add
 function add() {
-  return (a + b)
+  var sum = (a + b)
+  return sum
 }
 
 //subtract
