@@ -22,10 +22,20 @@ function toDiv() {
 
 //toIncrement
 function toIncrement() {
-  return (a + b)
+  return (a + 1)
 }
 
 //toDecrement
 function toDecrement() {
+  return (a - 1)
+}
+
+//toMakeint
+function toMakeint() {
+  return parseInt(a)
+}
+
+//toPrsDec
+function toPrsDec() {
   return (a + b)
 }
