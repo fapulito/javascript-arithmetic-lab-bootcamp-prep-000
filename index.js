@@ -8,7 +8,7 @@ beforeEach(function() {
 })
 
 //add
-function add() {
+function add(a, b) {
   a = parseFloat('a')
   b = parseFloat('b')
   var sum = (a + b)
