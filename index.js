@@ -9,8 +9,8 @@ beforeEach(function() {
 
 //add
 function add() {
-  a = parseFloat(a)
-  b = parseFloat(b)
+  a = parseFloat('a')
+  b = parseFloat('b')
   var sum = (a + b)
   return sum
 }
