@@ -36,13 +36,13 @@ function inc(a) {
 }
 
 //dec
-function dec(b) {
+function dec(a) {
   return (a - 1)
 }
 
 //makeInt
 function makeInt(a) {
-  return parseInt(a)
+  return parseInt(a, 10)
 }
 
 //preserveDecimal
