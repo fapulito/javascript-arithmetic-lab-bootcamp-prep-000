@@ -30,12 +30,12 @@ function toDecrement() {
   return (a - 1)
 }
 
-//toMakeint
-function toMakeint() {
+//makeInt
+function makeInt() {
   return parseInt(a)
 }
 
-//toPrsDec
-function toPrsDec() {
+//preserveDecimal
+function preserveDecimal() {
   return (a + b)
 }
