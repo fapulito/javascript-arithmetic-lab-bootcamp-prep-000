@@ -7,19 +7,25 @@ function toAdd() {
 
 //toSubt
 function toSubt() {
-  return (a + b)
+  return (a - b)
 }
 
 //toMulti
 function toMulti() {
-  return (a + b)
+  return (a * b)
 }
 
 //toDiv
 function toDiv() {
+  return (a / b)
+}
+
+//toIncrement
+function toIncrement() {
   return (a + b)
 }
 
-function toAdd() {
+//toDecrement
+function toDecrement() {
   return (a + b)
 }
