@@ -7,33 +7,33 @@ beforeEach(function() {
   b = Math.floor(Math.random() * 1000)
 })
 
-//toAdd
-function toAdd() {
+//add
+function add() {
   return (a + b)
 }
 
-//toSubt
-function toSubt() {
+//subtract
+function subtract() {
   return (a - b)
 }
 
-//toMulti
-function toMulti() {
+//multiply  
+function multiply() {
   return (a * b)
 }
 
-//toDiv
-function toDiv() {
+//divide
+function divide() {
   return (a / b)
 }
 
-//toIncrement
-function toIncrement() {
+//inc
+function inc() {
   return (a + 1)
 }
 
-//toDecrement
-function toDecrement() {
+//dec
+function dec() {
   return (a - 1)
 }
 
